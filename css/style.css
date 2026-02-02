@@ -18,7 +18,7 @@ h2 {
 
 p {
     font-size: 24px;
-    padding: 10px 0px 0px 10px;
+    padding: 10px 0 0 10px;
 }
 
 img {
@@ -56,10 +56,6 @@ div  {
     margin-right: 50px;
     border-top: 2px solid white;
     border-right: 5px solid white;
-    color: #C4C4C4;
-}
-
-.blue h2 {
     color: #C4C4C4;
 }
 
