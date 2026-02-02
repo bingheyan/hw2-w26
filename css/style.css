@@ -56,7 +56,6 @@ div  {
     margin-right: 50px;
     border-top: 2px solid white;
     border-right: 5px solid white;
-    color: #C4C4C4;
 }
 
 .blue h2 {
@@ -95,4 +94,5 @@ footer p {
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0;
+
 }
