@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
     background: #000000;
     color: #FFFFFF;
     margin: 20px 20px 0 20px;
@@ -8,6 +8,7 @@ body {
 h1 {
     font-size: 42px;
     text-align: center;
+    padding: 15px;
 }
 
 h2 {
@@ -52,9 +53,9 @@ div  {
 .blue {
     background-color: #0000FF;
     text-align: left;
-    margin-right: 50px solid white;
+    margin-right: 50px;
     border-bottom: 2px solid white;
-    border-left: 5px;
+    border-left: 5px solid white;
     color: #C4C4C4;
 }
 
@@ -89,6 +90,9 @@ footer  {
     );
     border: 5px solid white;
     font-size: 20px;
+}
+
+footer p {
     text-align: right;
     padding: 15px 15px 15px, 0px;
 }
